@@ -1,9 +1,9 @@
 ---
 layout: blog
-title:Best Phones 
+title: Best Phones 
 date: 22-01-2024
 lang: eng
-tagline:2024-01-22-best phones.md
+tagline: 2024-01-22-best phones.md
 ---
 <html lang="en">
 
