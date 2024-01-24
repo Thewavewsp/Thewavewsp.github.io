@@ -91,10 +91,6 @@ tagline: 2024-01-22-best phones.md
         </ul>
     </article>
 
-    <footer>
-        <p>Stay connected with the latest in smartphone technology. Find the perfect phone that suits your needs in 2024.</p>
-        <p>&copy; 2024 BestPhones.com. All rights reserved.</p>
-    </footer>
-</body>
+    </body>
 
 </html>
