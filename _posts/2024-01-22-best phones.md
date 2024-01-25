@@ -56,8 +56,8 @@ tagline: 2024-01-22-best phones.md
     </header>
 
     <article>
-        <h2>1. XYZ Phone Pro</h2>
-        <p>The XYZ Phone Pro is a flagship device that boasts cutting-edge features and top-notch performance. With a stunning display, powerful processor, and an impressive camera system, it's a top contender in the smartphone market.</p>
+        <h2>1. Realme Pro</h2>
+        <p>The  Realme Pro is a flagship device that boasts cutting-edge features and top-notch performance. With a stunning display, powerful processor, and an impressive camera system, it's a top contender in the smartphone market.</p>
         <p>Key features:</p>
         <ul>
             <li>6.5-inch Super AMOLED display</li>
@@ -68,8 +68,8 @@ tagline: 2024-01-22-best phones.md
     </article>
 
     <article>
-        <h2>2. ABC Phone Ultra</h2>
-        <p>The ABC Phone Ultra is known for its sleek design and innovative features. It combines style with substance, offering a seamless user experience and advanced technology.</p>
+        <h2>2. samsung s23 Ultra</h2>
+        <p>The samsung s23 Ultra is known for its sleek design and innovative features. It combines style with substance, offering a seamless user experience and advanced technology.</p>
         <p>Key features:</p>
         <ul>
             <li>6.8-inch OLED display with 120Hz refresh rate</li>
@@ -80,8 +80,8 @@ tagline: 2024-01-22-best phones.md
     </article>
 
     <article>
-        <h2>3. DEF Phone Lite</h2>
-        <p>The DEF Phone Lite is an excellent budget-friendly option that doesn't compromise on performance. It offers essential features and reliability at an affordable price point.</p>
+        <h2>3. xiomi Phone Lite</h2>
+        <p>The xiomi Phone Lite is an excellent budget-friendly option that doesn't compromise on performance. It offers essential features and reliability at an affordable price point.</p>
         <p>Key features:</p>
         <ul>
             <li>6.2-inch LCD display</li>
